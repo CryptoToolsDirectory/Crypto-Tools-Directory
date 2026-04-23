@@ -24,7 +24,7 @@ Welcome! This is a **hand-picked list of cryptocurrency and blockchain tools** e
 - [🧑‍💻 Developers, APIs & Data Sources](#developers-apis-data-sources)
 - [🏅 Certifications](#certifications)
 - [📖 Dictionary](#-dictionary)
-- [📖 How to Contribute](#-how_to_contribute)
+- [🤝 How to Contribute](#-how_to_contribute)
 
 ---
 
@@ -32,138 +32,144 @@ Welcome! This is a **hand-picked list of cryptocurrency and blockchain tools** e
 
 Top crypto exchanges to safely buy, sell, and trade digital assets with robust security and reliable platforms.
 
-- [Binance](https://www.binance.com/)
-
-  Large global exchange with deep spot and derivatives books and broad asset coverage.
-  - `score` : 9.90 /10
-  - `Avg. 24h Vol`: $9B
-  - `Avg. Liquidity`: 964
-  - `Avg. Weekly Visits` : 8M
-  - `Coin\Pairs` : 692/2070
-  - `kyc` : Required
-  - `customer support` : Help center, tickets, and in-app chat (availability varies)
-  - `platforms` : Web, iOS, Android
-
-- [Coinbase Exchange](https://www.coinbase.com/exchange)
-
-  Coinbase is one of the most liquid regulated crypto spot exchanges in the world.
-  - `score` : 9.75 /10
-  - `Avg. 24h Vol`: $1.5B
-  - `Avg. Liquidity`: 791
-  - `Avg. Weekly Visits` : 4M
-  - `Coin\Pairs` : 392/511
-  - `kyc` : Required
-  - `customer support` : Help center, email/ticketing, phone options
-  - `platforms` : Web, iOS, Android
-
-- [Upbit](https://upbit.com/)
-
-  Leading South Korean venue with large KRW spot activity and a wide domestic retail user base.
-  - `score` : 9.72 /10
-  - `Avg. 24h Vol`: $1B
-  - `Avg. Liquidity`: 533
-  - `Avg. Weekly Visits` : 1.3M
-  - `Coin\Pairs` : 310/711
-  - `kyc` : Korean AML/KYC rules apply for account tiers and banking rails
-  - `customer support` : Local help center and ticketing (Korean language first)
-  - `platforms` : Web, iOS, Android
-
-- [OKX](https://www.okx.com/)
-
-  Global venue combining spot, derivatives, and Web3 wallet features with strong API usage.
-  - `score` : 9.64 /10
-  - `Avg. 24h Vol`: $1.8B
-  - `Avg. Liquidity`: 688
-  - `Avg. Weekly Visits` : 5.6M
-  - `Coin\Pairs` : 384/1442
-  - `kyc` : Required
-  - `customer support` : Help center, tickets, chat
-  - `platforms` : Web, iOS, Android
-
-- [MEXC](https://www.mexc.com/)
-
-  Exchange known for long-tail alt listings and active retail spot flow.
-  - `score` : 9.50 /10
-  - `Avg. 24h Vol`: $1.1B
-  - `Avg. Liquidity`: 701
-  - `Avg. Weekly Visits` : 4M
-  - `Coin\Pairs` : 1893/3056
-  - `kyc` : Required
-  - `customer support` : Help center and tickets; community channels common
-  - `platforms` : Web, iOS, Android
-
-- [KuCoin](https://www.kucoin.com/)
-
-  Global altcoin-focused exchange with spot, margin, earn, and bot-style trading tools.
-  - `score` : 9.55 /10
-  - `Avg. 24h Vol`: $1.8B
-  - `Avg. Liquidity`: 667
-  - `Avg. Weekly Visits` : 4M
-  - `Coin\Pairs` : 997/1652
-  - `kyc` : Required
-  - `customer support` : Help center and tickets; chat where available
-  - `platforms` : Web, iOS, Android
-
-- [Bitget](https://www.bitget.com/)
-
-  Singapore-headquartered venue strong in copy-trading and derivatives alongside spot.
-  - `score` : 9.60 /10
-  - `Avg. 24h Vol`: $1B
-  - `Avg. Liquidity`: 714
-  - `Avg. Weekly Visits` : 3.5M
-  - `Coin\Pairs` : 719/1227
-  - `kyc` : Required
-  - `customer support` : Help center, tickets, live chat (hours may vary)
-  - `platforms` : Web, iOS, Android
-
-- [Gate](https://www.gate.io/)
-
-  Long-running global exchange with very broad spot listings and active alt markets.
-  - `score` : 9.58 /10
-  - `Avg. 24h Vol`: $1.2B
-  - `Avg. Liquidity`: 778
-  - `Avg. Weekly Visits` : 3M
-  - `Coin\Pairs` : 1744/2479
-  - `kyc` : Required
-  - `customer support` : Help center and tickets; multilingual support advertised
-  - `platforms` : Web, iOS, Android
-
-- [Crypto.com Exchange](https://crypto.com/exchange)
-
-  Exchange arm of the Crypto.com ecosystem (spot, margin, and app-linked flows).
-  - `score` : 9.40 /10
-  - `Avg. 24h Vol`: $1.7B
-  - `Avg. Liquidity`: 744
-  - `Avg. Weekly Visits` : 500K
-  - `Coin\Pairs` : 436/876
-  - `kyc` : Not Required for base trading
-  - `customer support` : In-app and web help center; ticketing
-  - `platforms` : Web, iOS, Android
-
-- [Kraken](https://www.kraken.com/)
-
-  US-founded exchange emphasizing spot and futures with a long track record in Western markets.
-  - `score` : 9.15 /10
-  - `Avg. 24h Vol`: $1.1B
-  - `Avg. Liquidity`: 831
-  - `Avg. Weekly Visits` : 1M
-  - `Coin\Pairs` : 745/1794
-  - `kyc` : Not Required for base trading
-  - `kyc` : KYC for fiat funding and higher limits; strong US/EU onboarding flows
-  - `customer support` : 24/7 chat and ticketing advertised; phone support in select regions
-  - `platforms` : Web, iOS, Android
-
-- [WEEX](https://www.weex.com/)
-
-  Derivatives-leaning global platform with growing spot activity.
-  - `score` : 8.65 /10
-  - `Avg. 24h Vol`: $1.5B
-  - `Avg. Liquidity`: 748
-  - `Avg. Weekly Visits` : 3M
-  - `Coin\Pairs` : 1002/1556
-  - `kyc` : Not Required for base trading
-  - `customer support` : Help center and tickets
-  - `platforms` : Web, iOS, Android
+<table style="width:100%; border-collapse:collapse; border:none;">
+  <thead>
+    <tr style="background-color:#1A1A1A;">
+      <th style="padding:8px; border:none;">Exchange</th>
+      <th style="padding:8px; border:none; min-width:100px; white-space:nowrap;">Score</th>
+      <th style="padding:8px; border:none;">Avg. 24h Vol</th>
+      <th style="padding:8px; border:none;">Avg. Liquidity</th>
+      <th style="padding:8px; border:none;">Avg. Weekly Visits</th>
+      <th style="padding:8px; border:none;">Coin/Pairs</th>
+      <th style="padding:8px; border:none;">KYC</th>
+      <th style="padding:8px; border:none;">Customer Support</th>
+      <th style="padding:8px; border:none;">Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.binance.com/">Binance</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.90 /10</td>
+      <td style="padding:8px; border:none;">$9B</td>
+      <td style="padding:8px; border:none;">964</td>
+      <td style="padding:8px; border:none;">8M</td>
+      <td style="padding:8px; border:none;">692/2070</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.coinbase.com/exchange">Coinbase Exchange</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.75 /10</td>
+      <td style="padding:8px; border:none;">$1.5B</td>
+      <td style="padding:8px; border:none;">791</td>
+      <td style="padding:8px; border:none;">4M</td>
+      <td style="padding:8px; border:none;">392/511</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, email, phone</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://upbit.com/">Upbit</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.72 /10</td>
+      <td style="padding:8px; border:none;">$1B</td>
+      <td style="padding:8px; border:none;">533</td>
+      <td style="padding:8px; border:none;">1.3M</td>
+      <td style="padding:8px; border:none;">310/711</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center,tickets(korean)</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.okx.com/">OKX</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.64 /10</td>
+      <td style="padding:8px; border:none;">$1.8B</td>
+      <td style="padding:8px; border:none;">688</td>
+      <td style="padding:8px; border:none;">5.6M</td>
+      <td style="padding:8px; border:none;">384/1442</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.mexc.com/">MEXC</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.50 /10</td>
+      <td style="padding:8px; border:none;">$1.1B</td>
+      <td style="padding:8px; border:none;">701</td>
+      <td style="padding:8px; border:none;">4M</td>
+      <td style="padding:8px; border:none;">1893/3056</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.kucoin.com/">KuCoin</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.55 /10</td>
+      <td style="padding:8px; border:none;">$1.8B</td>
+      <td style="padding:8px; border:none;">667</td>
+      <td style="padding:8px; border:none;">4M</td>
+      <td style="padding:8px; border:none;">997/1652</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.bitget.com/">Bitget</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.60 /10</td>
+      <td style="padding:8px; border:none;">$1B</td>
+      <td style="padding:8px; border:none;">714</td>
+      <td style="padding:8px; border:none;">3.5M</td>
+      <td style="padding:8px; border:none;">719/1227</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.gate.io/">Gate</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.58 /10</td>
+      <td style="padding:8px; border:none;">$1.2B</td>
+      <td style="padding:8px; border:none;">778</td>
+      <td style="padding:8px; border:none;">3M</td>
+      <td style="padding:8px; border:none;">1744/2479</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">Help center, tickets</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://crypto.com/exchange">Crypto.com Exchange</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.40 /10</td>
+      <td style="padding:8px; border:none;">$1.7B</td>
+      <td style="padding:8px; border:none;">744</td>
+      <td style="padding:8px; border:none;">500K</td>
+      <td style="padding:8px; border:none;">436/876</td>
+      <td style="padding:8px; border:none;">Not Required for base trading</td>
+      <td style="padding:8px; border:none;">Help center, tickets, chat</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.kraken.com/">Kraken</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.15 /10</td>
+      <td style="padding:8px; border:none;">$1.1B</td>
+      <td style="padding:8px; border:none;">831</td>
+      <td style="padding:8px; border:none;">1M</td>
+      <td style="padding:8px; border:none;">745/1794</td>
+      <td style="padding:8px; border:none;">Required</td>
+      <td style="padding:8px; border:none;">tickets, chat, phone</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.weex.com/">WEEX</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.65 /10</td>
+      <td style="padding:8px; border:none;">$1.5B</td>
+      <td style="padding:8px; border:none;">748</td>
+      <td style="padding:8px; border:none;">3M</td>
+      <td style="padding:8px; border:none;">1002/1556</td>
+      <td style="padding:8px; border:none;">Not Required for base trading</td>
+      <td style="padding:8px; border:none;">Help center, tickets</td>
+      <td style="padding:8px; border:none;">Web, iOS, Android</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
