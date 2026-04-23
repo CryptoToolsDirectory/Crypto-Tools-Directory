@@ -36,7 +36,7 @@ Top crypto exchanges to safely buy, sell, and trade digital assets with robust s
   <thead>
     <tr style="background-color:#1A1A1A;">
       <th style="padding:8px; border:none;">Exchange</th>
-      <th style="padding:8px; border:none; min-width:100px; white-space:nowrap;">Score</th>
+      <th style="padding:8px; border:none;">Score / 10</th>
       <th style="padding:8px; border:none;">Avg. 24h Vol</th>
       <th style="padding:8px; border:none;">Avg. Liquidity</th>
       <th style="padding:8px; border:none;">Avg. Weekly Visits</th>
