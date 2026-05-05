@@ -271,6 +271,75 @@ Decentralised exchanges (DEX) are blockchain-based platforms that let users secu
 
 ---
 
+## 💱 Defi (Decentralized Finance and Tools)
+
+Explore top DeFi platforms and tools that make decentralized finance easy, secure, and accessible for everyone.
+
+
+<table style="width:100%; border-collapse:collapse; border:none;">
+  <thead>
+    <tr style="background-color:#1A1A1A;">
+      <th style="padding:8px; border:none;">Tools</th>
+      <th style="padding:8px; border:none;">Score/10</th>
+      <th style="padding:8px; border:none;">Price</th>
+      <th style="padding:8px; border:none;">Type</th>
+      <th style="padding:8px; border:none;">Network</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://delphidigital.io/">Delphi Digital</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.90 /10</td>
+      <td style="padding:8px; border:none;">~$199</td>
+      <td style="padding:8px; border:none;">Analytics tools</td>
+      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,Solana,Starknet,BNB Chain,Avalanche</td>
+    </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://app.nansen.ai/">Nansen</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.7 /10</td>
+      <td style="padding:8px; border:none;">Almost free</td>
+      <td style="padding:8px; border:none;">Tracker and Trade</td>
+      <td style="padding:8px; border:none;">Bitcoin,Ethereum,Arbitrum,OP Mainnet,Polygon,Solana,Starknet,BNB Chain,Avalanche,Cosmos</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.coingecko.com/en/api">CoinGecko API</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.8 /10</td>
+      <td style="padding:8px; border:none;">Almost free</td>
+      <td style="padding:8px; border:none;">Tokens Api</td>
+      <td style="padding:8px; border:none;">Bitcoin,Ethereum</td>
+    </tr>
+     <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://chain.link/">Chainlink</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.1 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Smart Contract</td>
+      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.dextools.io/app/">DEXTools</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.5 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Analytics tools</td>
+      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche,Solana</td>
+    </tr>
+     <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://www.geckoterminal.com/">GeckoTerminal</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">8.8 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Analytics tools</td>
+      <td style="padding:8px; border:none;">Ethereum,Arbitrum,OP Mainnet,Polygon,BNB Chain,Avalanche,Optimism,Base,Sui,Fantom</td>
+    </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://www.blocknative.com/">Blocknative</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.5 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Gas tools</td>
+      <td style="padding:8px; border:none;">MultiChain</td>
+    </tr>
+    </tbody>
+    </table>
+    
+
 ## 📖 Dictionary
 
 This section explains common terms used in this README.
