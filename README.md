@@ -336,6 +336,13 @@ Explore top DeFi platforms and tools that make decentralized finance easy, secur
       <td style="padding:8px; border:none;">Gas tools</td>
       <td style="padding:8px; border:none;">MultiChain</td>
     </tr>
+    <tr style="background-color:#1A1A1A;">
+      <td style="padding:8px; border:none;"><a href="https://pharos.watch/">Pharos</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.2 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Analytics tools</td>
+      <td style="padding:8px; border:none;">MultiChain</td>
+    </tr>
     </tbody>
     </table>
     
